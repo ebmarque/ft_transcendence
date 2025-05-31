@@ -1,0 +1,11 @@
+{
+  "name": "user-management",
+  "version": "1.0.0",
+  "description": "Users Management API",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ebmarque",
+  "license": "MIT"
+}
